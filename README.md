@@ -27,6 +27,9 @@ O sistema apresenta uma **janela principal** com três botões principais:
 Cada janela utiliza o padrão `Toplevel()` para manter a aplicação modular e organizada.
 
 ---
+## Diagrama de classe
+
+![Diagrama](Diagrama.png)
 
 
 ## 💻 Tecnologias Utilizadas
